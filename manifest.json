@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Git Container",
-    "version": "1.0.2",
+    "name": "Booking Container",
+    "version": "1.0.0",
 
-    "description": "Git Container isolates your Git hosting service activity from the rest of your web activity in order to prevent these services from tracking you via third party cookies.",
+    "description": "Booking  Container isolates your Booking service activity from the rest of your web activity in order to prevent these services from tracking you via third party cookies.",
 
     "icons": {
         "48": "icon.png",
@@ -12,12 +12,12 @@
 
     "applications": {
       "gecko": {
-        "id": "@contain-git",
+        "id": "@contain-booking",
         "strict_min_version": "57.0"
       }
     },
 
-    "homepage_url": "https://github.com/SleepingPanda/contain-git",
+    "homepage_url": "https://github.com/netravnen/contain-booking",
 
     "permissions": [
         "<all_urls>",
